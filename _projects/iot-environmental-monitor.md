@@ -10,9 +10,9 @@ demo_url: "#"
 interactive_plot: true
 
 models:
-  - file: "/assets/models/iot-monitor/sensor-housing.gltf"
+  - file: "/assets/models/iot-monitor/test.gltf"
     description: "Weatherproof housing for outdoor sensor deployment"
-  - file: "/assets/models/iot-monitor/sensor-housing.gltf"
+  - file: "/assets/models/iot-monitor/test.gltf"
     description: "IoT sensor enclosure 3D model"
 
 schematics:
