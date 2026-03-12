@@ -5,6 +5,8 @@ description: "A comprehensive IoT-based environmental monitoring system with wir
 date: 2024-08-10
 categories: [IoT, Arduino, Mechatronics, Data Science]
 featured_image: "/assets/images/projects/iot-monitor/sensor-monitoring.gif"
+github_url: "https://github.com/aojedao/iot-environmental-monitor"
+demo_url: "#"
 interactive_plot: true
 
 models:
