@@ -8,9 +8,9 @@ featured_image: "/assets/images/projects/iot-monitor/sensor-monitoring.gif"
 interactive_plot: true
 
 models:
-  - file: "/assets/models/iot-monitor/test.gltf"
+  - file: "/assets/models/iot-monitor/sensor-housing.gltf"
     description: "Weatherproof housing for outdoor sensor deployment"
-  - file: "/assets/models/iot-monitor/test.gltf"
+  - file: "/assets/models/iot-monitor/sensor-housing.gltf"
     description: "IoT sensor enclosure 3D model"
 
 schematics:
